@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>BackgroundColor</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGCQpYJHZlcnNpb25UJHRvcFkkYXJjaGl2ZXJYJG9iamVjdHMS
+	AAGGoNEHCFRyb290gAFfEA9OU0tleWVkQXJjaGl2ZXKjCwwTVSRudWxs0w0ODxARElYk
+	Y2xhc3NcTlNDb2xvclNwYWNlVU5TUkdCgAIQAU8QJTAgMC4wMDI5NjgxMTQ2IDAuMTg0
+	NzgyNjIgMC45NDk5OTk5OQDSFBUWF1gkY2xhc3Nlc1okY2xhc3NuYW1lohcYV05TQ29s
+	b3JYTlNPYmplY3QIERofKTI3Oj9BU1ddZGt4foCCqq+4w8bOAAAAAAAAAQEAAAAAAAAA
+	GQAAAAAAAAAAAAAAAAAAANc=
+	</data>
+	<key>CursorBlink</key>
+	<false/>
+	<key>CursorColor</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGCQpYJHZlcnNpb25UJHRvcFkkYXJjaGl2ZXJYJG9iamVjdHMS
+	AAGGoNEHCFRyb290gAFfEA9OU0tleWVkQXJjaGl2ZXKjCwwTVSRudWxs0w0ODxARElYk
+	Y2xhc3NcTlNDb2xvclNwYWNlVU5TUkdCgAIQAU8QITAuMzE4MDMxNDYgMC4zNDI1NjMy
+	NyAwLjU0MzQ3ODI1ANIUFRYXWCRjbGFzc2VzWiRjbGFzc25hbWWiFxhXTlNDb2xvclhO
+	U09iamVjdAgRGh8pMjc6P0FTV11ka3h+gIKmq7S/wsoAAAAAAAABAQAAAAAAAAAZAAAA
+	AAAAAAAAAAAAAAAA0w==
+	</data>
+	<key>Font</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGCQpYJHZlcnNpb25UJHRvcFkkYXJjaGl2ZXJYJG9iamVjdHMS
+	AAGGoNEHCFRyb290gAFfEA9OU0tleWVkQXJjaGl2ZXKkCwwVFlUkbnVsbNQNDg8QERIT
+	FFYkY2xhc3NWTlNTaXplVk5TTmFtZVhOU2ZGbGFnc4ADI0AoAAAAAAAAgAIQEFhDb25z
+	b2xhc9IXGBkaWCRjbGFzc2VzWiRjbGFzc25hbWWiGhtWTlNGb250WE5TT2JqZWN0CBEa
+	HykyNzo/QVNYXmdudXyFh5CSlJ2iq7a5wAAAAAAAAAEBAAAAAAAAABwAAAAAAAAAAAAA
+	AAAAAADJ
+	</data>
+	<key>FontAntialias</key>
+	<true/>
+	<key>ShowActiveProcessInTitle</key>
+	<true/>
+	<key>ShowCommandKeyInTitle</key>
+	<false/>
+	<key>ShowDimensionsInTitle</key>
+	<false/>
+	<key>ShowShellCommandInTitle</key>
+	<false/>
+	<key>ShowTTYNameInTitle</key>
+	<false/>
+	<key>ShowWindowSettingsNameInTitle</key>
+	<false/>
+	<key>TextColor</key>
+	<data>
+	YnBsaXN0MDDUAQIDBAUGCQpYJHZlcnNpb25UJHRvcFkkYXJjaGl2ZXJYJG9iamVjdHMS
+	AAGGoNEHCFRyb290gAFfEA9OU0tleWVkQXJjaGl2ZXKjCwwTVSRudWxs0w0ODxARElYk
+	Y2xhc3NcTlNDb2xvclNwYWNlVU5TUkdCgAIQAU8QGDEgMC45OTM3OTQ5MiAwLjczOTU2
+	NzY0ANIUFRYXWCRjbGFzc2VzWiRjbGFzc25hbWWiFxhXTlNDb2xvclhOU09iamVjdAgR
+	Gh8pMjc6P0FTV11ka3h+gIKdoqu2ucEAAAAAAAABAQAAAAAAAAAZAAAAAAAAAAAAAAAA
+	AAAAyg==
+	</data>
+	<key>UseBoldFonts</key>
+	<true/>
+	<key>UseBrightBold</key>
+	<true/>
+	<key>name</key>
+	<string>Giovanni Style</string>
+	<key>type</key>
+	<string>Window Settings</string>
+</dict>
+</plist>
